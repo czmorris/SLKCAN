@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name DLW21SN121SQ2L)(type KiCad)(uri ${KIPRJMOD}/downloads/DLW21SN121SQ2L)(options "")(descr ""))
+  (lib (name TF-15X15)(type Legacy)(uri ${KIPRJMOD}/downloads/LIB_TF-15X15/TF-15X15/KiCad/TF-15X15.mod)(options "")(descr ""))
+  (lib (name LSF0204PWR)(type KiCad)(uri ${KIPRJMOD}/downloads/LSF0204PWR)(options "")(descr ""))
+  (lib (name SWPA5020S105MT)(type KiCad)(uri C:/Users/czmor/Documents/KiCAD/SLKCAN/custom/SWPA5020S150MT)(options "")(descr ""))
+  (lib (name OSHW-logo)(type Legacy)(uri ${KIPRJMOD}/downloads/OSHW_logo_KiCad_scalable/lib/OSHW-logo.mod)(options "")(descr ""))
+)

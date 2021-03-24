@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name TJA1050)(type Legacy)(uri ${KIPRJMOD}/downloads/TJA1050/TJA1050.lib)(options "")(descr ""))
+  (lib (name LSF0204PWR)(type Legacy)(uri ${KIPRJMOD}/downloads/LSF0204PWR/LSF0204PWR.lib)(options "")(descr ""))
+  (lib (name DLW21SN121SQ2L)(type Legacy)(uri ${KIPRJMOD}/downloads/DLW21SN121SQ2L/DLW21SN121SQ2L.lib)(options "")(descr ""))
+  (lib (name TF-15X15)(type Legacy)(uri ${KIPRJMOD}/downloads/LIB_TF-15X15/TF-15X15/KiCad/TF-15X15.lib)(options "")(descr ""))
+  (lib (name SN74AVC1T45DCKR)(type Legacy)(uri ${KIPRJMOD}/downloads/SN74AVC1T45DCKR/SN74AVC1T45DCKR.lib)(options "")(descr ""))
+  (lib (name 74LVC125APW_118)(type Legacy)(uri ${KIPRJMOD}/downloads/74LVC125APW_118/74LVC125APW_118.lib)(options "")(descr ""))
+  (lib (name ld1085v50)(type Legacy)(uri ${KIPRJMOD}/custom/ld1085v50.lib)(options "")(descr ""))
+)
