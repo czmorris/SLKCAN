@@ -6,7 +6,7 @@ This board was created as project to connect to the CANBus on a City Slicker ele
 Goal:
 - Programmable via the Arduino IDE (Uses an ESP32). This allows anyone who uses it to customize it to their own needs.
 - Connect to the CANBus on the motorcycle. (Uses MCP2551 and MCP2515, Noise management was also required)
-- Provide a means to get 3.3 and 5v power from the 12v supply on the bikes data bus.
+- Provide a means to get 3.3 and 5v power from the 12v supply on the bikes data port.
 - Provide a means to get this information out via serial. Or to be reprogrammed via serial. Pin header provided.
 - Provide a header with some additional GPIO.
 
