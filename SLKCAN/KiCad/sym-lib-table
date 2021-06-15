@@ -6,4 +6,5 @@
   (lib (name SN74AVC1T45DCKR)(type Legacy)(uri ${KIPRJMOD}/downloads/SN74AVC1T45DCKR/SN74AVC1T45DCKR.lib)(options "")(descr ""))
   (lib (name 74LVC125APW_118)(type Legacy)(uri ${KIPRJMOD}/downloads/74LVC125APW_118/74LVC125APW_118.lib)(options "")(descr ""))
   (lib (name ld1085v50)(type Legacy)(uri ${KIPRJMOD}/custom/ld1085v50.lib)(options "")(descr ""))
+  (lib (name SLKCAN-rescue)(type Legacy)(uri ${KIPRJMOD}/SLKCAN-rescue.lib)(options "")(descr ""))
 )
