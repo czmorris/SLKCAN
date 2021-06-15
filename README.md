@@ -11,6 +11,6 @@ Goal:
 - Provide a header with some additional GPIO.
 
 note: I use an FTDI cable for programming and getting serial terminal information.
-Other USB-Serial cables may work fine but this is the only one that I have tested with.
+I have also tested with cheaper USB TTL modules with no issues. Other adapters may work as well.
 
 At this time this device does not promise to be foolproof. Connect this to your bike at your own risk. 
