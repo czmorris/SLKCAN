@@ -2357,7 +2357,7 @@
   (gr_text 5V (at 148.082 78.74 -90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.1)))
   )
-  (gr_text SLKCAN01 (at 101.6 105.41 90) (layer F.SilkS)
+  (gr_text SLKCAN02 (at 101.6 105.41 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "INPUT POWER COND." (at 113.03 71.12) (layer F.SilkS)
